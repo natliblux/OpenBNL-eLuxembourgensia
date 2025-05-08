@@ -12,3 +12,5 @@ The notebook requests the name of a person from the user.  It then queries Wikid
 Once completed, the notebook can be run online using [Binder/JupyterLab](https://mybinder.org).
 ## Result
 Below is a sample of the results produced by this project.
+
+![Sample results](Sample%20results.jpg)
