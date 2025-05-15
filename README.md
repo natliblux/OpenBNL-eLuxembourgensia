@@ -9,7 +9,7 @@ The notebook requests the name of a person from the user.  It then queries Wikid
 * [pandas](https://pandas.pydata.org/): format the output into tabular layout
 * [yarl](https://pypi.org/project/yarl/): format the output URL into a clickable URL link
 ## Usage
-The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-MapLibraries/b7ddeb83635d3a51dae0d216d13d6fb089b4e7b1?urlpath=lab%2Ftree%2Fsrc%2FOpenBnL-MapLibraryLocations.ipynb).
+The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-eLuxembourgensia/ebf7ffee165364c2df44e72d0c5d398344c8e311?urlpath=lab%2Ftree%2Fsrc%2FQuerying%20eLuxembourgensia.ipynb).
 ## Result
 Below is a sample of the results produced by this project.
 
