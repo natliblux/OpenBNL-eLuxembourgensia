@@ -1,4 +1,4 @@
-# OpenBNL-eLuxembourgensia
+# OpenBNL-eluxembourgensia
 This project makes use of Open Data from the BnL and Wikidata to provide a list of newspapers that were published during the lifetime of a Luxembourgish person.
 ## Introduction
 This project uses Jupyter Notebooks to encapsulate all information regarding the project.
